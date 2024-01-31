@@ -1,0 +1,10 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.trimAutoWhitespace": true,
+  "editor.tabSize": 2,
+  "eslint.codeActionsOnSave.mode": "problems",
+  "eslint.packageManager": "yarn",
+  "typescript.tsdk": "node_modules/typescript/lib",
+}
